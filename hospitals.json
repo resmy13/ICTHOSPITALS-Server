@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Mar Sleeva Medicity",
+    "patientCount": 100,
+    "location": "Pala"
+  },
+  {
+    "name": "Bharath Hospital",
+    "patientCount": 75,
+    "location": "Kottayam"
+  },
+  {
+    "name": "Mary Queens Medical Mission Hospital",
+    "patientCount": 50,
+    "location": "Kanjirappally"
+  },
+  
+  
+  {
+    "name": "Caritas Hospital",
+    "patientCount": 200,
+    "location": "Kottayam"
+  }
+]
